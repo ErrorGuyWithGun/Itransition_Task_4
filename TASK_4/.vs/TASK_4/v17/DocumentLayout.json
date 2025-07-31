@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\",
+  "WorkspaceRootPath": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\shared\\_nameinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\shared\\_nameinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\shared\\_nameinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\shared\\_emailinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\shared\\_emailinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\shared\\_emailinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\shared\\_passwordinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\shared\\_passwordinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\shared\\_passwordinput.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\shared\\_title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\shared\\_title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\shared\\_title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\wwwroot\\css\\img-bg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\wwwroot\\css\\img-bg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\wwwroot\\css\\img-bg.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task 4\\task_4\\task_4\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|e:\\data research\\itransitionstude\\task4\\task_4\\task_4\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3A3B1081-E0B5-46CC-B88B-1CDFE6312046}|TASK_4\\TASK_4.csproj|solutionrelative:task_4\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -100,73 +100,78 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "site.css",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "TASK_4\\wwwroot\\css\\site.css",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\wwwroot\\css\\site.css",
               "RelativeToolTip": "TASK_4\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-07-28T20:38:03.629Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Program.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Program.cs",
               "RelativeDocumentMoniker": "TASK_4\\Program.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Program.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Program.cs",
               "RelativeToolTip": "TASK_4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-29T19:33:39.652Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_NameInput.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_NameInput.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_NameInput.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Shared\\_NameInput.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_NameInput.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_NameInput.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Shared\\_NameInput.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T13:46:39.367Z"
+              "WhenOpened": "2025-07-31T13:46:39.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:41:20.491Z"
+              "WhenOpened": "2025-07-28T20:41:20.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "TASK_4\\Repositories\\UserRepository.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "TASK_4\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T12:20:20.916Z"
+              "WhenOpened": "2025-07-31T12:20:20.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Home\\index.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Home\\index.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Home\\index.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Home\\index.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Home\\index.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Home\\index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-28T19:49:50.635Z",
               "EditorCaption": ""
@@ -175,181 +180,196 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Configuration\\UserConfiguration.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Configuration\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "TASK_4\\Configuration\\UserConfiguration.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Configuration\\UserConfiguration.cs",
               "RelativeToolTip": "TASK_4\\Configuration\\UserConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T14:58:42.512Z"
+              "WhenOpened": "2025-07-30T14:58:42.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Controllers\\UserController.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "TASK_4\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Controllers\\UserController.cs",
               "RelativeToolTip": "TASK_4\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T13:20:22.133Z"
+              "WhenOpened": "2025-07-31T13:20:22.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Models\\AppDbContext.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Models\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TASK_4\\Models\\AppDbContext.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Models\\AppDbContext.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Models\\AppDbContext.cs",
               "RelativeToolTip": "TASK_4\\Models\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T10:59:09.182Z"
+              "WhenOpened": "2025-07-30T10:59:09.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Home\\SignUp.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Home\\SignUp.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Home\\SignUp.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Home\\SignUp.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Home\\SignUp.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Home\\SignUp.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T19:15:04.937Z"
+              "WhenOpened": "2025-07-29T19:15:04.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "User.cs",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Models\\User.cs",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Models\\User.cs",
               "RelativeDocumentMoniker": "TASK_4\\Models\\User.cs",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Models\\User.cs",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Models\\User.cs",
               "RelativeToolTip": "TASK_4\\Models\\User.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-29T23:55:15.407Z"
+              "WhenOpened": "2025-07-29T23:55:15.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "_PasswordInput.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Shared\\_PasswordInput.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T13:49:24.997Z"
+              "WhenOpened": "2025-07-31T13:49:24.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_EmailInput.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Shared\\_EmailInput.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T13:46:44.757Z"
+              "WhenOpened": "2025-07-31T13:46:44.757Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\appsettings.json",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\appsettings.json",
               "RelativeDocumentMoniker": "TASK_4\\appsettings.json",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\appsettings.json",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\appsettings.json",
               "RelativeToolTip": "TASK_4\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-31T14:03:55.875Z"
+              "WhenOpened": "2025-07-31T14:03:55.875Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "_Title.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_Title.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_Title.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Shared\\_Title.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Shared\\_Title.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Shared\\_Title.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Shared\\_Title.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T13:47:45.573Z"
+              "WhenOpened": "2025-07-31T13:47:45.573Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Properties\\launchSettings.json",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TASK_4\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Properties\\launchSettings.json",
               "RelativeToolTip": "TASK_4\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-30T11:11:13.44Z"
+              "WhenOpened": "2025-07-30T11:11:13.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T18:29:38.483Z"
+              "WhenOpened": "2025-07-29T18:29:38.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Privacy.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Privacy.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:40:19.788Z"
+              "WhenOpened": "2025-07-28T20:40:19.788Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "img-bg.css",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\wwwroot\\css\\img-bg.css",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\wwwroot\\css\\img-bg.css",
               "RelativeDocumentMoniker": "TASK_4\\wwwroot\\css\\img-bg.css",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\wwwroot\\css\\img-bg.css",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\wwwroot\\css\\img-bg.css",
               "RelativeToolTip": "TASK_4\\wwwroot\\css\\img-bg.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-29T20:42:20.874Z"
+              "WhenOpened": "2025-07-29T20:42:20.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T18:29:40.171Z"
+              "WhenOpened": "2025-07-29T18:29:40.171Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Error.cshtml",
+              "DocumentMoniker": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "TASK_4\\Pages\\Error.cshtml",
-              "ToolTip": "E:\\Data Research\\ItransitionStude\\task 4\\TASK_4\\TASK_4\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\Data Research\\ItransitionStude\\task4\\TASK_4\\TASK_4\\Pages\\Error.cshtml",
               "RelativeToolTip": "TASK_4\\Pages\\Error.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-28T20:41:13.091Z"
+              "WhenOpened": "2025-07-28T20:41:13.091Z",
+              "EditorCaption": ""
             }
           ]
         }
