@@ -2,15 +2,13 @@ name: CI/CD for Razor Pages App
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
   pull_request:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest # Or windows-latest, etc.
+    runs-on: ubuntu-latest
     
     steps:
       - uses: actions/checkout@v4
@@ -21,13 +19,13 @@ jobs:
           dotnet-version: '8.0.x'
       
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore ./TASK_4/TASK_4.sln 
       
       - name: Build
-        run: dotnet build --no-restore
+        run: dotnet build ./TASK_4/TASK_4.sln --no-restore
       
       - name: Run tests
-        run: dotnet test --no-build --verbosity normal
+        run: dotnet test ./TASK_4/TASK_4.sln --no-build --verbosity normal
       
       - name: Publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+        run: dotnet publish ./TASK_4/TASK_4/TASK_4.csproj -c Release -o ./publish-output
