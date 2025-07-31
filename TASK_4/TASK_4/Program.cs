@@ -5,7 +5,6 @@ using TASK_4.Repositories;
 var builder = WebApplication.CreateBuilder(args);
 
 
-// Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddScoped<UserRepository>();
 
@@ -19,7 +18,6 @@ using (var db = new AppDbContext())
 var app = builder.Build();
 
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Error");
